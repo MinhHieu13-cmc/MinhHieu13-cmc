@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nguyễn Minh Hiếu</h1>
+<h3 align="center">Backend Developer | AI Enthusiast | Cloud Builder</h3>
 
-<!--
-**MinhHieu13-cmc/MinhHieu13-cmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Backend Developer (C#, .NET, Python)
+- 🤖 Interested in AI, LLM, Automation Systems
+- ☁️ Learning Cloud (GCP, Docker, FastAPI)
+- 🎯 Goal 2026: Build scalable AI SaaS system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- Backend: C#, .NET, Python, FastAPI
+- Database: SQL Server, MySQL
+- Cloud: GCP (Learning)
+- Tools: Docker, Git, REST API
+
+---
+
+## 📌 Featured Projects
+- 🔹 Multi-Platform Sales Management
+- 🔹 NovaTutor AI
+- 🔹 Market-Pulse
+
+---
+
+## 📫 Contact
+- Email: hieu89062@gmail.com
